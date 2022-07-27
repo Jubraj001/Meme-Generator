@@ -1,1 +1,1 @@
-<img src="C:\Users\jubra\meme-generator\public\demo-image.png">
+<img src=".\public\demo-image.png">
